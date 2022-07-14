@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna Costa Bittencourt 👋
 
-- 🔭 I’m currently working with Back-end at Capgemini.
-- 🌱 I am currently learning Java, Angular, Node.js and MySQL.
+- 🔭 I’m currently working with Front-end at SIS Consultoria.
+- 🌱 I am currently learning JavaScript, Angular, Node.js and MySQL.
 - 😄 Pronouns: She/her.
 
 <div align="center">
