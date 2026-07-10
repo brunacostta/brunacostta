@@ -1,7 +1,7 @@
 ### Hi there! I'm Bruna Costa Bittencourt 👋
 
 - 💻 Quality Assurance (QA) Engineer at GFT Technologies.
-- 🎭 Learning Playwright, TypeScript and Test Automation.
+- 🎭 Learning Playwright, TypeScript, API Testing and Test Automation.
 - 🏆 Wynxx AI Certified.
 - 📚 Preparing for the Microsoft Applied Skills: Microsoft 365 Copilot certification.
 - 🌎 Passionate about Software Quality, Artificial Intelligence and Continuous Learning.
@@ -18,7 +18,7 @@
 - ☁️ Microsoft Copilot & AI Tools
 - 🌍 International QA Career
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 - 🎭 Playwright
 - 📮 Postman
