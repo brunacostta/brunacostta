@@ -23,11 +23,9 @@
 - 🎭 Playwright
 - 📮 Postman
 - ☕ Java
-- 🐍 Python
 - 📘 TypeScript
 - 💛 JavaScript
 - 🔧 Git & GitHub
-- 🗄️ SQL
 
 ##
 
