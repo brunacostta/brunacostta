@@ -33,7 +33,7 @@
   <a href="mailto:bruna.costta39@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/bruna-c-077525193/" target="_blank">
+  <a href="[https://www.linkedin.com/bruna-c-077525193/](https://www.linkedin.com/in/bruna-c-077525193/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
